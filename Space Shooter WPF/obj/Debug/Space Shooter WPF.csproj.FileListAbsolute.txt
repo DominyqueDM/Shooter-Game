@@ -1,0 +1,16 @@
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\bin\Debug\Space Shooter WPF.exe.config
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\bin\Debug\Space Shooter WPF.exe
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\bin\Debug\Space Shooter WPF.pdb
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\Space Shooter WPF.csproj.AssemblyReference.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\Space Shooter WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\MainWindow.g.cs
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\App.g.cs
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\Space Shooter WPF_MarkupCompile.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\Space Shooter WPF_MarkupCompile.lref
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\MainWindow.baml
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\Space Shooter WPF.g.resources
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\Space_Shooter_WPF.Properties.Resources.resources
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\Space Shooter WPF.csproj.GenerateResource.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\Space Shooter WPF.csproj.CoreCompileInputs.cache
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\Space Shooter WPF.exe
+C:\Users\nykyd\OneDrive\Documents\Courses_reed\C#\Shooter game\Space Shooter WPF\Space Shooter WPF\obj\Debug\Space Shooter WPF.pdb
